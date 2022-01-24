@@ -12,3 +12,15 @@ body {
 body {
   font-family: "Roboto", sans-serif;
 }
+
+.wedding-card {
+  border-radius: 15px;
+  background-color: rgb(53, 53, 124);
+  color: white;
+  position: relative;
+}
+
+.wedding-badge {
+  position: absolute;
+  right: 30px;
+}
